@@ -1,0 +1,9 @@
+{
+    "sender_token": "",
+    "sender_name": "SenderBot",
+    "sender_version": "1.0.0",
+    "echo_token": "",
+    "echo_name": "EchoBot",
+    "echo_version": "1.0.0",
+    "echo_admin": "username@mail.ru"
+}
